@@ -135,8 +135,7 @@ Custom ordering was also implemented for month names to ensure chronological ord
 
 Working with DataFrame indexes to:
 
-= Retrieve records efficiently
-
+- Retrieve records efficiently
 - Set custom indexes
 - Access specific rows
 
