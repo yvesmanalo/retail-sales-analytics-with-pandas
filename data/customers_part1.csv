@@ -1,0 +1,501 @@
+customer_id,customer_name,city,membership
+1,Customer_0001,New York,Bronze
+2,Customer_0002,San Antonio,Bronze
+3,Customer_0003,Philadelphia,Bronze
+4,Customer_0004,Houston,Silver
+5,Customer_0005,Houston,Silver
+6,Customer_0006,San Antonio,Bronze
+7,Customer_0007,New York,Silver
+8,Customer_0008,Philadelphia,Bronze
+9,Customer_0009,Chicago,Silver
+10,Customer_0010,New York,Gold
+11,Customer_0011,Phoenix,Gold
+12,Customer_0012,San Diego,Bronze
+13,Customer_0013,Philadelphia,Gold
+14,Customer_0014,San Antonio,Gold
+15,Customer_0015,Philadelphia,Silver
+16,Customer_0016,San Antonio,Gold
+17,Customer_0017,Phoenix,Silver
+18,Customer_0018,Chicago,Bronze
+19,Customer_0019,San Antonio,Gold
+20,Customer_0020,Houston,Bronze
+21,Customer_0021,Phoenix,Bronze
+22,Customer_0022,Los Angeles,Silver
+23,Customer_0023,Chicago,Gold
+24,Customer_0024,San Diego,Silver
+25,Customer_0025,San Antonio,Gold
+26,Customer_0026,Philadelphia,Silver
+27,Customer_0027,Houston,Bronze
+28,Customer_0028,San Antonio,Bronze
+29,Customer_0029,Phoenix,Bronze
+30,Customer_0030,Houston,Silver
+31,Customer_0031,Houston,Silver
+32,Customer_0032,Chicago,Bronze
+33,Customer_0033,New York,Silver
+34,Customer_0034,Phoenix,Silver
+35,Customer_0035,San Diego,Gold
+36,Customer_0036,New York,Gold
+37,Customer_0037,San Antonio,Silver
+38,Customer_0038,San Antonio,Gold
+39,Customer_0039,Los Angeles,Gold
+40,Customer_0040,Philadelphia,Bronze
+41,Customer_0041,Chicago,Bronze
+42,Customer_0042,San Antonio,Silver
+43,Customer_0043,Philadelphia,Bronze
+44,Customer_0044,Los Angeles,Bronze
+45,Customer_0045,New York,Gold
+46,Customer_0046,San Diego,Silver
+47,Customer_0047,Houston,Silver
+48,Customer_0048,San Diego,Gold
+49,Customer_0049,Philadelphia,Bronze
+50,Customer_0050,San Antonio,Silver
+51,Customer_0051,San Antonio,Silver
+52,Customer_0052,Chicago,Gold
+53,Customer_0053,Los Angeles,Gold
+54,Customer_0054,Houston,Bronze
+55,Customer_0055,Houston,Gold
+56,Customer_0056,New York,Gold
+57,Customer_0057,Phoenix,Gold
+58,Customer_0058,Chicago,Silver
+59,Customer_0059,Philadelphia,Silver
+60,Customer_0060,Philadelphia,Silver
+61,Customer_0061,San Diego,Gold
+62,Customer_0062,Philadelphia,Gold
+63,Customer_0063,Los Angeles,Bronze
+64,Customer_0064,San Diego,Silver
+65,Customer_0065,Houston,Silver
+66,Customer_0066,Los Angeles,Silver
+67,Customer_0067,San Diego,Bronze
+68,Customer_0068,Los Angeles,Gold
+69,Customer_0069,New York,Silver
+70,Customer_0070,Houston,Silver
+71,Customer_0071,San Antonio,Silver
+72,Customer_0072,Chicago,Bronze
+73,Customer_0073,Houston,Silver
+74,Customer_0074,Chicago,Bronze
+75,Customer_0075,Philadelphia,Bronze
+76,Customer_0076,Houston,Silver
+77,Customer_0077,Los Angeles,Bronze
+78,Customer_0078,Chicago,Silver
+79,Customer_0079,Phoenix,Bronze
+80,Customer_0080,Philadelphia,Silver
+81,Customer_0081,San Diego,Silver
+82,Customer_0082,Houston,Silver
+83,Customer_0083,Chicago,Gold
+84,Customer_0084,San Antonio,Silver
+85,Customer_0085,Philadelphia,Bronze
+86,Customer_0086,Philadelphia,Silver
+87,Customer_0087,New York,Gold
+88,Customer_0088,Los Angeles,Silver
+89,Customer_0089,San Antonio,Gold
+90,Customer_0090,San Antonio,Gold
+91,Customer_0091,Houston,Bronze
+92,Customer_0092,San Antonio,Silver
+93,Customer_0093,San Antonio,Silver
+94,Customer_0094,Houston,Silver
+95,Customer_0095,San Diego,Gold
+96,Customer_0096,Los Angeles,Gold
+97,Customer_0097,Chicago,Bronze
+98,Customer_0098,Philadelphia,Silver
+99,Customer_0099,Philadelphia,Bronze
+100,Customer_0100,Chicago,Silver
+101,Customer_0101,San Antonio,Silver
+102,Customer_0102,Chicago,Bronze
+103,Customer_0103,San Antonio,Bronze
+104,Customer_0104,New York,Bronze
+105,Customer_0105,San Antonio,Bronze
+106,Customer_0106,San Antonio,Bronze
+107,Customer_0107,San Antonio,Bronze
+108,Customer_0108,Philadelphia,Gold
+109,Customer_0109,Houston,Bronze
+110,Customer_0110,Philadelphia,Silver
+111,Customer_0111,Los Angeles,Silver
+112,Customer_0112,San Antonio,Silver
+113,Customer_0113,Phoenix,Bronze
+114,Customer_0114,Houston,Bronze
+115,Customer_0115,Phoenix,Gold
+116,Customer_0116,Phoenix,Bronze
+117,Customer_0117,New York,Bronze
+118,Customer_0118,Chicago,Silver
+119,Customer_0119,Chicago,Gold
+120,Customer_0120,New York,Gold
+121,Customer_0121,Houston,Bronze
+122,Customer_0122,Philadelphia,Silver
+123,Customer_0123,Philadelphia,Bronze
+124,Customer_0124,Houston,Silver
+125,Customer_0125,San Antonio,Bronze
+126,Customer_0126,Phoenix,Silver
+127,Customer_0127,New York,Bronze
+128,Customer_0128,San Antonio,Gold
+129,Customer_0129,Phoenix,Silver
+130,Customer_0130,Philadelphia,Bronze
+131,Customer_0131,Phoenix,Bronze
+132,Customer_0132,Phoenix,Bronze
+133,Customer_0133,New York,Gold
+134,Customer_0134,Phoenix,Silver
+135,Customer_0135,San Antonio,Gold
+136,Customer_0136,Los Angeles,Gold
+137,Customer_0137,Phoenix,Silver
+138,Customer_0138,New York,Bronze
+139,Customer_0139,Los Angeles,Bronze
+140,Customer_0140,Houston,Bronze
+141,Customer_0141,San Diego,Bronze
+142,Customer_0142,Chicago,Bronze
+143,Customer_0143,Los Angeles,Gold
+144,Customer_0144,Houston,Gold
+145,Customer_0145,San Diego,Silver
+146,Customer_0146,San Antonio,Bronze
+147,Customer_0147,New York,Gold
+148,Customer_0148,Chicago,Silver
+149,Customer_0149,San Antonio,Silver
+150,Customer_0150,New York,Gold
+151,Customer_0151,San Antonio,Silver
+152,Customer_0152,Los Angeles,Bronze
+153,Customer_0153,San Diego,Silver
+154,Customer_0154,Los Angeles,Gold
+155,Customer_0155,Houston,Bronze
+156,Customer_0156,Philadelphia,Silver
+157,Customer_0157,Chicago,Bronze
+158,Customer_0158,Phoenix,Gold
+159,Customer_0159,Phoenix,Silver
+160,Customer_0160,San Antonio,Silver
+161,Customer_0161,San Diego,Gold
+162,Customer_0162,Philadelphia,Bronze
+163,Customer_0163,Houston,Gold
+164,Customer_0164,Houston,Gold
+165,Customer_0165,Houston,Silver
+166,Customer_0166,San Antonio,Bronze
+167,Customer_0167,Los Angeles,Bronze
+168,Customer_0168,Chicago,Bronze
+169,Customer_0169,Los Angeles,Gold
+170,Customer_0170,New York,Silver
+171,Customer_0171,New York,Gold
+172,Customer_0172,New York,Silver
+173,Customer_0173,San Antonio,Bronze
+174,Customer_0174,Philadelphia,Bronze
+175,Customer_0175,Philadelphia,Silver
+176,Customer_0176,Houston,Silver
+177,Customer_0177,Philadelphia,Bronze
+178,Customer_0178,Chicago,Silver
+179,Customer_0179,San Diego,Gold
+180,Customer_0180,Phoenix,Silver
+181,Customer_0181,San Diego,Gold
+182,Customer_0182,Chicago,Gold
+183,Customer_0183,Houston,Gold
+184,Customer_0184,Philadelphia,Silver
+185,Customer_0185,Houston,Silver
+186,Customer_0186,Houston,Silver
+187,Customer_0187,Chicago,Silver
+188,Customer_0188,Houston,Bronze
+189,Customer_0189,Chicago,Bronze
+190,Customer_0190,Los Angeles,Silver
+191,Customer_0191,Philadelphia,Gold
+192,Customer_0192,Philadelphia,Bronze
+193,Customer_0193,Phoenix,Gold
+194,Customer_0194,Los Angeles,Silver
+195,Customer_0195,San Diego,Bronze
+196,Customer_0196,New York,Silver
+197,Customer_0197,Los Angeles,Bronze
+198,Customer_0198,New York,Silver
+199,Customer_0199,Los Angeles,Silver
+200,Customer_0200,San Diego,Gold
+201,Customer_0201,Los Angeles,Gold
+202,Customer_0202,San Diego,Silver
+203,Customer_0203,Houston,Gold
+204,Customer_0204,Philadelphia,Bronze
+205,Customer_0205,Houston,Gold
+206,Customer_0206,Los Angeles,Silver
+207,Customer_0207,San Antonio,Bronze
+208,Customer_0208,San Diego,Bronze
+209,Customer_0209,Los Angeles,Silver
+210,Customer_0210,San Antonio,Silver
+211,Customer_0211,Los Angeles,Bronze
+212,Customer_0212,Philadelphia,Silver
+213,Customer_0213,San Antonio,Bronze
+214,Customer_0214,Houston,Bronze
+215,Customer_0215,Philadelphia,Bronze
+216,Customer_0216,Los Angeles,Gold
+217,Customer_0217,New York,Silver
+218,Customer_0218,New York,Gold
+219,Customer_0219,Houston,Silver
+220,Customer_0220,San Diego,Bronze
+221,Customer_0221,Chicago,Silver
+222,Customer_0222,Houston,Silver
+223,Customer_0223,Philadelphia,Gold
+224,Customer_0224,Chicago,Bronze
+225,Customer_0225,Philadelphia,Gold
+226,Customer_0226,Los Angeles,Gold
+227,Customer_0227,San Antonio,Gold
+228,Customer_0228,Phoenix,Gold
+229,Customer_0229,Phoenix,Silver
+230,Customer_0230,Chicago,Silver
+231,Customer_0231,Houston,Silver
+232,Customer_0232,San Antonio,Gold
+233,Customer_0233,New York,Gold
+234,Customer_0234,San Antonio,Silver
+235,Customer_0235,Houston,Gold
+236,Customer_0236,Philadelphia,Silver
+237,Customer_0237,Philadelphia,Gold
+238,Customer_0238,Houston,Silver
+239,Customer_0239,Los Angeles,Silver
+240,Customer_0240,Philadelphia,Silver
+241,Customer_0241,Chicago,Gold
+242,Customer_0242,Phoenix,Gold
+243,Customer_0243,New York,Bronze
+244,Customer_0244,Philadelphia,Gold
+245,Customer_0245,Philadelphia,Silver
+246,Customer_0246,New York,Silver
+247,Customer_0247,San Antonio,Silver
+248,Customer_0248,Houston,Silver
+249,Customer_0249,San Antonio,Bronze
+250,Customer_0250,New York,Bronze
+251,Customer_0251,Chicago,Gold
+252,Customer_0252,Houston,Silver
+253,Customer_0253,Chicago,Gold
+254,Customer_0254,Los Angeles,Silver
+255,Customer_0255,Philadelphia,Silver
+256,Customer_0256,Chicago,Gold
+257,Customer_0257,Philadelphia,Silver
+258,Customer_0258,New York,Bronze
+259,Customer_0259,Chicago,Gold
+260,Customer_0260,Phoenix,Silver
+261,Customer_0261,San Antonio,Bronze
+262,Customer_0262,Chicago,Gold
+263,Customer_0263,Los Angeles,Gold
+264,Customer_0264,San Diego,Gold
+265,Customer_0265,San Diego,Bronze
+266,Customer_0266,Phoenix,Gold
+267,Customer_0267,Houston,Gold
+268,Customer_0268,Los Angeles,Gold
+269,Customer_0269,Phoenix,Gold
+270,Customer_0270,Phoenix,Silver
+271,Customer_0271,Los Angeles,Gold
+272,Customer_0272,New York,Silver
+273,Customer_0273,Chicago,Silver
+274,Customer_0274,San Diego,Bronze
+275,Customer_0275,Houston,Gold
+276,Customer_0276,Houston,Bronze
+277,Customer_0277,Houston,Silver
+278,Customer_0278,San Antonio,Gold
+279,Customer_0279,New York,Bronze
+280,Customer_0280,New York,Bronze
+281,Customer_0281,Los Angeles,Gold
+282,Customer_0282,Houston,Bronze
+283,Customer_0283,Philadelphia,Silver
+284,Customer_0284,Houston,Silver
+285,Customer_0285,Houston,Bronze
+286,Customer_0286,San Diego,Silver
+287,Customer_0287,Chicago,Bronze
+288,Customer_0288,Phoenix,Silver
+289,Customer_0289,Phoenix,Bronze
+290,Customer_0290,Houston,Silver
+291,Customer_0291,San Antonio,Gold
+292,Customer_0292,Los Angeles,Silver
+293,Customer_0293,San Diego,Silver
+294,Customer_0294,Los Angeles,Gold
+295,Customer_0295,Phoenix,Gold
+296,Customer_0296,Phoenix,Silver
+297,Customer_0297,San Antonio,Gold
+298,Customer_0298,Houston,Gold
+299,Customer_0299,Los Angeles,Bronze
+300,Customer_0300,New York,Bronze
+301,Customer_0301,Los Angeles,Bronze
+302,Customer_0302,San Antonio,Silver
+303,Customer_0303,New York,Bronze
+304,Customer_0304,San Diego,Silver
+305,Customer_0305,Phoenix,Gold
+306,Customer_0306,Chicago,Gold
+307,Customer_0307,Los Angeles,Silver
+308,Customer_0308,Phoenix,Gold
+309,Customer_0309,Los Angeles,Silver
+310,Customer_0310,New York,Bronze
+311,Customer_0311,Philadelphia,Gold
+312,Customer_0312,Philadelphia,Gold
+313,Customer_0313,New York,Bronze
+314,Customer_0314,Los Angeles,Silver
+315,Customer_0315,Chicago,Gold
+316,Customer_0316,Philadelphia,Bronze
+317,Customer_0317,Philadelphia,Bronze
+318,Customer_0318,Philadelphia,Silver
+319,Customer_0319,San Diego,Silver
+320,Customer_0320,San Antonio,Gold
+321,Customer_0321,Los Angeles,Gold
+322,Customer_0322,New York,Silver
+323,Customer_0323,Phoenix,Gold
+324,Customer_0324,San Diego,Silver
+325,Customer_0325,San Diego,Bronze
+326,Customer_0326,Chicago,Gold
+327,Customer_0327,Chicago,Silver
+328,Customer_0328,New York,Gold
+329,Customer_0329,Chicago,Bronze
+330,Customer_0330,Phoenix,Gold
+331,Customer_0331,Phoenix,Silver
+332,Customer_0332,Los Angeles,Silver
+333,Customer_0333,Los Angeles,Silver
+334,Customer_0334,San Antonio,Silver
+335,Customer_0335,Houston,Bronze
+336,Customer_0336,San Antonio,Silver
+337,Customer_0337,San Diego,Bronze
+338,Customer_0338,Los Angeles,Bronze
+339,Customer_0339,Chicago,Silver
+340,Customer_0340,San Diego,Silver
+341,Customer_0341,Philadelphia,Gold
+342,Customer_0342,Los Angeles,Bronze
+343,Customer_0343,Phoenix,Silver
+344,Customer_0344,Phoenix,Silver
+345,Customer_0345,San Diego,Gold
+346,Customer_0346,Los Angeles,Bronze
+347,Customer_0347,San Diego,Silver
+348,Customer_0348,San Diego,Silver
+349,Customer_0349,Chicago,Gold
+350,Customer_0350,Chicago,Bronze
+351,Customer_0351,Phoenix,Gold
+352,Customer_0352,New York,Gold
+353,Customer_0353,Los Angeles,Bronze
+354,Customer_0354,Houston,Bronze
+355,Customer_0355,San Diego,Gold
+356,Customer_0356,San Diego,Silver
+357,Customer_0357,Chicago,Bronze
+358,Customer_0358,San Diego,Bronze
+359,Customer_0359,New York,Silver
+360,Customer_0360,Philadelphia,Silver
+361,Customer_0361,San Antonio,Bronze
+362,Customer_0362,San Diego,Bronze
+363,Customer_0363,Chicago,Bronze
+364,Customer_0364,San Diego,Silver
+365,Customer_0365,New York,Gold
+366,Customer_0366,Phoenix,Bronze
+367,Customer_0367,Houston,Bronze
+368,Customer_0368,Los Angeles,Bronze
+369,Customer_0369,New York,Gold
+370,Customer_0370,San Antonio,Gold
+371,Customer_0371,Los Angeles,Bronze
+372,Customer_0372,Philadelphia,Gold
+373,Customer_0373,Houston,Bronze
+374,Customer_0374,Los Angeles,Silver
+375,Customer_0375,San Diego,Bronze
+376,Customer_0376,New York,Bronze
+377,Customer_0377,Philadelphia,Silver
+378,Customer_0378,Philadelphia,Silver
+379,Customer_0379,Houston,Silver
+380,Customer_0380,Los Angeles,Silver
+381,Customer_0381,New York,Silver
+382,Customer_0382,San Diego,Silver
+383,Customer_0383,San Diego,Bronze
+384,Customer_0384,Chicago,Silver
+385,Customer_0385,New York,Gold
+386,Customer_0386,New York,Silver
+387,Customer_0387,New York,Silver
+388,Customer_0388,San Antonio,Gold
+389,Customer_0389,San Diego,Gold
+390,Customer_0390,Chicago,Silver
+391,Customer_0391,Philadelphia,Silver
+392,Customer_0392,Chicago,Bronze
+393,Customer_0393,Los Angeles,Gold
+394,Customer_0394,Phoenix,Gold
+395,Customer_0395,Philadelphia,Bronze
+396,Customer_0396,San Antonio,Bronze
+397,Customer_0397,New York,Gold
+398,Customer_0398,Chicago,Gold
+399,Customer_0399,Los Angeles,Gold
+400,Customer_0400,Los Angeles,Silver
+401,Customer_0401,San Diego,Silver
+402,Customer_0402,San Antonio,Gold
+403,Customer_0403,Los Angeles,Gold
+404,Customer_0404,San Diego,Silver
+405,Customer_0405,Houston,Bronze
+406,Customer_0406,Phoenix,Silver
+407,Customer_0407,Houston,Silver
+408,Customer_0408,Chicago,Gold
+409,Customer_0409,San Diego,Gold
+410,Customer_0410,New York,Gold
+411,Customer_0411,Chicago,Bronze
+412,Customer_0412,Chicago,Bronze
+413,Customer_0413,Los Angeles,Bronze
+414,Customer_0414,Chicago,Bronze
+415,Customer_0415,New York,Bronze
+416,Customer_0416,Philadelphia,Bronze
+417,Customer_0417,San Diego,Gold
+418,Customer_0418,New York,Gold
+419,Customer_0419,Los Angeles,Silver
+420,Customer_0420,Phoenix,Silver
+421,Customer_0421,San Diego,Gold
+422,Customer_0422,Philadelphia,Bronze
+423,Customer_0423,San Antonio,Silver
+424,Customer_0424,Phoenix,Silver
+425,Customer_0425,Houston,Gold
+426,Customer_0426,Chicago,Gold
+427,Customer_0427,San Antonio,Gold
+428,Customer_0428,San Antonio,Bronze
+429,Customer_0429,New York,Silver
+430,Customer_0430,Philadelphia,Bronze
+431,Customer_0431,New York,Gold
+432,Customer_0432,Philadelphia,Silver
+433,Customer_0433,San Antonio,Silver
+434,Customer_0434,Chicago,Bronze
+435,Customer_0435,Houston,Bronze
+436,Customer_0436,New York,Gold
+437,Customer_0437,Phoenix,Bronze
+438,Customer_0438,San Diego,Gold
+439,Customer_0439,New York,Bronze
+440,Customer_0440,Houston,Gold
+441,Customer_0441,San Diego,Gold
+442,Customer_0442,Los Angeles,Bronze
+443,Customer_0443,Chicago,Gold
+444,Customer_0444,Houston,Silver
+445,Customer_0445,Phoenix,Silver
+446,Customer_0446,Philadelphia,Gold
+447,Customer_0447,Los Angeles,Bronze
+448,Customer_0448,San Diego,Bronze
+449,Customer_0449,Phoenix,Bronze
+450,Customer_0450,Los Angeles,Silver
+451,Customer_0451,San Diego,Silver
+452,Customer_0452,San Diego,Gold
+453,Customer_0453,Houston,Gold
+454,Customer_0454,New York,Gold
+455,Customer_0455,Phoenix,Bronze
+456,Customer_0456,Phoenix,Bronze
+457,Customer_0457,Chicago,Bronze
+458,Customer_0458,Philadelphia,Silver
+459,Customer_0459,San Antonio,Silver
+460,Customer_0460,New York,Silver
+461,Customer_0461,Philadelphia,Silver
+462,Customer_0462,Chicago,Silver
+463,Customer_0463,Philadelphia,Gold
+464,Customer_0464,Houston,Gold
+465,Customer_0465,New York,Bronze
+466,Customer_0466,San Diego,Silver
+467,Customer_0467,Chicago,Bronze
+468,Customer_0468,Phoenix,Gold
+469,Customer_0469,Chicago,Silver
+470,Customer_0470,San Diego,Gold
+471,Customer_0471,Philadelphia,Gold
+472,Customer_0472,San Antonio,Gold
+473,Customer_0473,Houston,Gold
+474,Customer_0474,Houston,Bronze
+475,Customer_0475,Philadelphia,Silver
+476,Customer_0476,San Antonio,Silver
+477,Customer_0477,San Antonio,Silver
+478,Customer_0478,New York,Silver
+479,Customer_0479,Philadelphia,Silver
+480,Customer_0480,New York,Gold
+481,Customer_0481,Los Angeles,Bronze
+482,Customer_0482,San Antonio,Bronze
+483,Customer_0483,Los Angeles,Bronze
+484,Customer_0484,San Antonio,Silver
+485,Customer_0485,Houston,Gold
+486,Customer_0486,Chicago,Bronze
+487,Customer_0487,Los Angeles,Silver
+488,Customer_0488,Phoenix,Gold
+489,Customer_0489,San Antonio,Silver
+490,Customer_0490,Phoenix,Bronze
+491,Customer_0491,San Diego,Silver
+492,Customer_0492,San Antonio,Bronze
+493,Customer_0493,San Antonio,Bronze
+494,Customer_0494,Phoenix,Gold
+495,Customer_0495,Los Angeles,Bronze
+496,Customer_0496,Houston,Silver
+497,Customer_0497,New York,Silver
+498,Customer_0498,Los Angeles,Gold
+499,Customer_0499,San Diego,Bronze
+500,Customer_0500,Houston,Gold
