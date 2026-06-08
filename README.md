@@ -106,28 +106,28 @@ Loading CSV files into DataFrames using Pandas.
 
 Examples:
 
-Reading customer data
-Reading product data
-Reading order data
-Reading transaction data
+- Reading customer data
+- Reading product data
+- Reading order data
+- Reading transaction data
 
 ### Filtering Data
 
 Filtering rows based on conditions such as:
 
-Membership type
-Product price
-Order dates
-Product categories
+- Membership type
+- Product price
+- Order dates
+- Product categories
 
 ### Sorting and Ordering
 
 Sorting data by:
 
-Product price
-Customer names
-Revenue
-Monthly sales
+- Product price
+- Customer names
+- Revenue
+- Monthly sales
 
 Custom ordering was also implemented for month names to ensure chronological ordering.
 
